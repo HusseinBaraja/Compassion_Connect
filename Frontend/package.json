@@ -1,0 +1,30 @@
+{
+  "name": "ddac-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vuepic/vue-datepicker": "^7.2.2",
+    "apexcharts": "^3.44.0",
+    "axios": "^1.6.2",
+    "dayjs": "^1.11.10",
+    "jspdf": "^2.5.1",
+    "moment": "^2.29.4",
+    "vue": "^3.3.4",
+    "vue-axios": "^3.5.2",
+    "vue-carousel": "^0.18.0",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5"
+  }
+}

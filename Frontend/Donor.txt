@@ -1,0 +1,39 @@
+Donor
+1.view appointment - cancel appointment - Hussein 
+                 
+2.feedback- add feedback / view feedback- Cristina
+
+3.donation page - food(change button site from gateway) redirected to book appointment
+               money - enter money amount, button to go next for gateway (sample gateway), confirm- Hussein
+4.donation history- Dan
+
+5.information site/site- view only- Cristina
+
+6.reward- small box that shows points the customer owns - similar to site but content focused on/like selling platform. - Dan
+
+7.reward history - what did he claim etc..- Dan
+
+Admin
+8.Manage appointment - update, view- Cristina
+
+9.manage donation history - view and delete- Dan
+
+10.manage information site - delete, update, add- hard
+
+11.manage feedback- Hussein
+
+12.generate analysis report- hard 
+
+13.manage reward history- Cristina
+
+14.manage reward - can add, update, delete reward- Hussein
+
+
+
+
+
+
+
+
+
+
